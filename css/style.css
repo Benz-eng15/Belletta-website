@@ -72,7 +72,7 @@ body {
 .hero .btn-cta{
     position:absolute;
     left:50%;
-    bottom: 8%;
+    bottom: 115px;
     transform:translateX(-50%);
 }
 
@@ -596,8 +596,12 @@ footer {
   }
 
   .btn-cta {
-    padding: 10px 24px;
-    font-size: 14px;
+    padding: 8px 18px;
+    font-size: 13px;
+  }
+
+  .hero .btn-cta {
+    bottom: 8%;
   }
 
   .features-card,
