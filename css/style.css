@@ -346,6 +346,11 @@ body {
   color: rgba(63, 42, 48, 0.6); 
 }
 
+.testimonials-title {
+  grid-column: 1 / -1;
+  margin-bottom: 20px;
+}
+
 .stars {
   color: var(--color-primary);
   font-size: 1.1rem;
